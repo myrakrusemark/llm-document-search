@@ -12,10 +12,11 @@ Experimental fast document processing and search using an LLM. The intention is 
 - Further pre-process text to condense meaning into smallest possible space. I don't like this very much though, given the arbitrary nature of general web browsing.
 
 ## Disadvantages
-- Slow
+- Slow search process
 - Costs money
 
 ## Advantages
+- Low resource usage
 - Extremely fast pre-processing
 - Saves some overhead in not having to process or embed the entire page ahead of each search
 - Pretty cheap!
