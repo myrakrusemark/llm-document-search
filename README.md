@@ -1,4 +1,4 @@
-# llm-document-search
+# 📃 llm-document-search 🔍
 Experimental fast document processing and search using an LLM. The intention is to use this code in an autoGPT environment, boiling down a page to only the relevant information seeked by the LLM. By returning only the smallest amount of relevant information from a web page, token usage is minimized.
 
 - Any loaded page is converted to raw text and split into overlapping content blocks.
